@@ -1,3 +1,3 @@
 
-# tOPIC 15: Statistical Power and ANOVA -  Introduction
+# Topic 15: Statistical Power and ANOVA -  Introduction
 
